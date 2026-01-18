@@ -1,10 +1,10 @@
-package java.local.demo_java;
+package finn.demo_test2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoJavaApplicationTests {
+class DemoTest2ApplicationTests {
 
 	@Test
 	void contextLoads() {
