@@ -1,9 +1,3 @@
-finn/demo_test2/modules/users/dtos/LoginRequest.class
 finn/demo_test2/DemoTest2Application.class
-finn/demo_test2/modules/users/services/impl/UserService.class
-finn/demo_test2/modules/users/dtos/UserDTO.class
+finn/demo_test2/config/SecurityConfig.class
 finn/demo_test2/FlywayConfig.class
-finn/demo_test2/modules/users/services/interfaces/UserServiceInterface.class
-finn/demo_test2/modules/users/controllers/AuthController.class
-finn/demo_test2/databases/seeder/DatabaseSeeder.class
-finn/demo_test2/modules/users/dtos/LoginResponse.class

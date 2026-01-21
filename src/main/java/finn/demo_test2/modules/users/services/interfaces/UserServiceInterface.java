@@ -1,8 +1,8 @@
 package finn.demo_test2.modules.users.services.interfaces;
 
-import finn.demo_test2.modules.users.dtos.LoginRequest;
-import finn.demo_test2.modules.users.dtos.LoginResponse;
+import finn.demo_test2.modules.requests.LoginRequest;
+import finn.demo_test2.modules.users.resources.LoginResource;
 
 public interface UserServiceInterface {
-  LoginResponse login(LoginRequest request);
+  LoginResource login(LoginRequest request);
 }

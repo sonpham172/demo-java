@@ -2,10 +2,12 @@
 /Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/FlywayConfig.java
 /Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/config/SecurityConfig.java
 /Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/databases/seeder/DatabaseSeeder.java
+/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/helpers/GlobalExceptionHandler.java
+/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/requests/LoginRequest.java
 /Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/controllers/AuthController.java
-/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/dtos/LoginRequest.java
-/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/dtos/LoginResponse.java
-/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/dtos/UserDTO.java
 /Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/entities/User.java
+/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/repositories/UserRepository.java
+/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/resources/LoginResource.java
+/Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/resources/UserResource.java
 /Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/services/impl/UserService.java
 /Users/finnpham/Documents/company/projects/demo-java/src/main/java/finn/demo_test2/modules/users/services/interfaces/UserServiceInterface.java

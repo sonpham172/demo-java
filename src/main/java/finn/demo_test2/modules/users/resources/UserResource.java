@@ -1,12 +1,10 @@
-package finn.demo_test2.modules.users.dtos;
+package finn.demo_test2.modules.users.resources;
 
-import org.springframework.jdbc.core.JdbcTemplate;
-
-public class UserDTO {
+public class UserResource {
   private final String email;
   private final Long id;
 
-  public UserDTO(Long id, String email) {
+  public UserResource(Long id, String email) {
     this.id = id;
     this.email = email;
   }
